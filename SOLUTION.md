@@ -1,5 +1,7 @@
 # Weather API
 
+### Repo - https://github.com/hansenc23/aws-serverless-test
+
 ## Overview
 
 This Weather API is a serverless application deployed using the Serverless Framework. It provides an endpoint to get weather information based on the country code and postal code provided by the user. This API fetches the data from the Open Weather API and delivers the weather details to the user in a simplified format.
