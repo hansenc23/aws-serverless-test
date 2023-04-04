@@ -22,6 +22,7 @@ Get the current weather information for a specific location based on the provide
 **Parameters**:
 
 `countryCode` (required) - A two-letter country code as per the ISO 3166-1 alpha-2 standard (e.g., "US" for the United States, "AU" for Australia).
+
 `postcode` (required) - A string representing the postal code for the location of interest.
 
 ## Example
