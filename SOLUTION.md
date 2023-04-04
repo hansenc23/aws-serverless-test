@@ -54,7 +54,7 @@ Get the current weather information for a specific location based on the provide
 
 ### Run the following command
 
-Make sure you ahve the Serverless CLI installed Globally
+Make sure you have the Serverless CLI installed Globally
 
 ```
 npm install -g serverless
